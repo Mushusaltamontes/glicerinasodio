@@ -1,0 +1,93 @@
+@charset "utf-8";
+#contenedor {
+    height: 950px;
+    width: 100%;
+    background-color: #3B9B3A;
+}
+#header {
+    height: 150px;
+    width: 100%;
+    background-color: #6A875B;
+}
+#body {
+    height: 678px;
+    width: 100%;
+}
+#left {
+    height: 700px;
+    width: 57%;
+    float: left;
+    background-color: #7C9F6A;
+}
+#right {
+    float: left;
+    height: 700px;
+    width: 43%;
+    background-color: #8cab7c;
+}
+#footer {
+    height: 100px;
+    width: 100%;
+    background-color: #44603E;
+    clear: both;
+}
+.letra {
+    font-size: large;
+}
+.color   {
+    color: #624B1E;
+    text-align: center;
+}
+.textot {
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+
+}
+
+#hleft {
+    height: 150px;
+    width: 50%;
+    float: left;
+}
+#hright {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: #587648;
+}
+.titulo {
+    color: #083E04;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    padding-top: 10px;
+}
+.vinculos {
+    color: #133F17;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: center;
+}
+.derechos {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.textot {
+    text-align: justify;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.subtitulo {
+    text-align: center;
+    color: #624B1E;
+}
+#hlleft {
+    height: 150px;
+    width: 25%;
+    float: left;
+    background-color: #587648;
+}
